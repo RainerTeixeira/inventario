@@ -51,7 +51,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Bem-vindo à Página Inicial</h1>
+        <h1>Bem-vindo à Página Inicial.</h1>
         <form action="painel.php" method="post">
             <input type="text" name="username" placeholder="Usuário" required>
             <input type="password" name="password" placeholder="Senha" required>
